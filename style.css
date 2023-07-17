@@ -32,8 +32,7 @@ nav ul a:hover{
     color: white;
 }
 .items{
-    display:grid;
-    grid-column: (3, 1fr);
+    display: grid;
     grid-template-columns: repeat(3, 1fr);
     padding: 30px 20px;
     grid-column-gap: 20px
